@@ -8,11 +8,6 @@
   ## Tecnologías
    ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  	![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=lumaxiviba&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
+![Lumaxiviba's GitHub stats](https://github-readme-stats.vercel.app/api?username=lumaxiviba&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lumaxiviba&layout=compact&theme=dark)
 
- ![Top Langs][https://github-readme-stats.vercel.app/api/top-langs/?username=lumaxiviba&layout=compact]
-
-
-
-
-[https://github-readme-stats.vercel.app/api/top-langs/?username=lumaxiviba&layout=compact]: https://github-readme-stats.vercel.app/api/top-langs/?username=lumaxiviba&layout=compact
